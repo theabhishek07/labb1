@@ -1,0 +1,25 @@
+    1   cd d:
+    2  mkdir abhishek
+    3  cd abhishek
+    4  ls -ah
+    5  git init
+    6  ls -ah
+    7  vi first.txt
+    8  cat first.txt
+    9  git status
+   10  git add first.txt
+   11  git commit -m "first commit"
+   12  git status
+   13  git config --global ___mr.abhishek "ABHISHEK SHARMA"
+   14  git config --global user.name "___mr.abhishek"
+   15  git log
+   16  git config __global use.email asharma0269@gmail.com
+   17  git config --global user.email asharma0269@gmail.com
+   18  gits status
+   19  git status
+   20  git add first.txt
+   21  git commit -m "first commit"
+   22  git status
+   23  history
+   24  git log
+   25  history > log.txt

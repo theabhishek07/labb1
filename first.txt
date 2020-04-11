@@ -1,6 +1,6 @@
 hey this is my first version control program
- 
-
+ hbjhb
+ghgfjyfy
 
 #include <stdio.h>
 int fact (int);
